@@ -4,4 +4,4 @@ Linear regression model is a model used to predict the value of a variable based
 linear regression has 1 dependent variable (interval or ratio), 1 independent variable (interval or ratio or dichotomous), we have equation:
 y = ax + b
 ## Grab Problem
-![](assets/GrabProblem.png)
+![](images/GrabProblem.png)
